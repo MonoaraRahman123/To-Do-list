@@ -1,0 +1,4 @@
+django==5.0.4
+pymongo==4.7.0
+python-dotenv==1.0.1
+argon2-cffi==23.1.0
